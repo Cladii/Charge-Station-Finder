@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">g52010mobg5</string>
+    <string name="menu_home">Home</string>
+    <string name="connexion_text">Se connecter</string>
+    <string name="email_text">Entrez votre adresse email</string>
+    <string name="pwd_text">Entrez votre mot de passe</string>
+    <string name="bienvenue_text">Bienvenue</string>
+    <string name="log_in_text">Log in</string>
+    <string name="about_title">About</string>
+    <string name="my_info">52010 Schellekens Arnaud</string>
+    <string name="about">About</string>
+    <string name="carte">Carte</string>
+    <string name="ajouter_aux_favoris">Ajouter aux favoris</string>
+    <string name="supprimer_des_favoris">Supprimer des favoris</string>
+    <string name="voir_les_d_tails">Voir les détails</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+</resources>
